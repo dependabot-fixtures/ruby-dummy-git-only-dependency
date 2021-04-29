@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name     = "ruby-dummy-git-only-dependency"
-  spec.version  = "1.0.1"
+  spec.version  = "1.0.2"
   spec.summary  = "A dummy package for testing Dependabot"
   spec.author   = "Dependabot"
   spec.license  = "MIT"
